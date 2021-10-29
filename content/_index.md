@@ -7,6 +7,14 @@ type: docs
 
 Welcome to the [UN / DISI](http://www.ingenieria.unal.edu.co/dependencias/departamentos/departamento-de-ingenieria-de-sistemas-e-industrial) _visual computing_ course template site.
 
+## Team members
+
+* Andres Esteban Romero Romero
+* Yerson Andres Valderrama Ceron
+* Oscar Andres Mancera Grazon
+* Andres Ortega Fernandes Silva
+* Camilo Andres Chaparro 
+![alt text](https://github.com/Computacion-Visual-Gr7/vc/content/prueba.png "Logo Title Text 1")
 ## Goal
 
 To study the process of creation and manipulation of a digital image of a modern visual application, using current hardware.
