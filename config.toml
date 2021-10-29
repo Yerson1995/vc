@@ -1,4 +1,4 @@
-baseURL = "https://github.com/Computacion-Visual-Gr7/vc"
+baseURL = "https://computacion-visual-gr7.github.io/vc/"
 languageCode = "en-us"
 title = "Visual Computing"
 theme = 'book'
