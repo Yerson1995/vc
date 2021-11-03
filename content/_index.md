@@ -14,7 +14,8 @@ Welcome to the [UN / DISI](http://www.ingenieria.unal.edu.co/dependencias/depart
 * Oscar Andres Mancera Grazon
 * Andres Ortega Fernandes Silva
 * Camilo Andres Chaparro 
-![alt text](https://github.com/Computacion-Visual-Gr7/vc/content/prueba.png "Logo Title Text 1")
+
+![demo](/a.jpg)
 ## Goal
 
 To study the process of creation and manipulation of a digital image of a modern visual application, using current hardware.
