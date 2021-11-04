@@ -13,5 +13,5 @@ Esto sucede porque la percepción cambia debido a los pétalos de la flor más g
 
 ## referencias
 
-https://es.wikipedia.org/wiki/Ilusi%C3%B3n_de_Ebbinghaus
-https://www.illusionsindex.org/
+* https://es.wikipedia.org/wiki/Ilusi%C3%B3n_de_Ebbinghaus
+* https://www.illusionsindex.org/
