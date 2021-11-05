@@ -11,7 +11,7 @@ oamancerag@unal.edu.co
 
 El desvanecimiento de Troxler, también llamado desvanecimiento de Troxler o efecto Troxler, es una ilusión óptica que afecta la percepción visual. Cuando uno se fija en un punto en particular, aunque sea por un corto período de tiempo, un estímulo inmutable alejado del punto de fijación se desvanecerá y desaparecerá. La investigación sugiere que al menos una parte de los fenómenos de percepción asociados con el desvanecimiento de Troxler ocurre en el cerebro.
 
-{{< p5-iframe sketch="/vc/sketches/troxler_main.png" width="625" height="425" >}}
+{{< p5-iframe sketch="/vc/sketches/troxler.js" width="625" height="425" >}}
 
 ## referencias
 
