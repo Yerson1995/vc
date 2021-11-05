@@ -15,7 +15,6 @@ Welcome to the [UN / DISI](http://www.ingenieria.unal.edu.co/dependencias/depart
 * Andres Ortega Fernandes Silva
 * Camilo Andres Chaparro 
 
-![demo](/a.jpg)
 ## Goal
 
 To study the process of creation and manipulation of a digital image of a modern visual application, using current hardware.
