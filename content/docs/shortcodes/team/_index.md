@@ -8,8 +8,8 @@ bookCollapseSection: true
 * Andres Esteban Romero Romero
 * Yerson Andres Valderrama Ceron
 * Oscar Andres Mancera Grazon
-* Andres Ortega Fernandes Silva
-* Camilo Andres Chaparro 
+* Andrés Ortega Fernández
+* Camilo Andres Chaparro Silva
 
 
 https://github.com/Computacion-Visual-Gr7
