@@ -7,7 +7,7 @@ bookCollapseSection: true
 
 * Andres Esteban Romero Romero
 * Yerson Andres Valderrama Ceron
-* Oscar Andres Mancera Grazon
+* Oscar Andres Mancera Garzon
 * Andrés Ortega Fernández
 * Camilo Andres Chaparro Silva
 
